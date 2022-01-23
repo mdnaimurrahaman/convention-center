@@ -3,3 +3,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+#btn-hero{
+    background-color: white;
+    color:#3F87F5;
+    padding: 10px 43px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
