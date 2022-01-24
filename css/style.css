@@ -4,6 +4,10 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.logo span{
+    color: orange;
+}
+
 .carousel-item img{
     width: 1440px;
     Height:800px;
@@ -57,4 +61,9 @@ body{
  /* all paragraph style */
 p{
     font-weight: normal;
+}
+
+footer img{
+    border: 1px solid rgba(253, 253, 253, 0.363);
+    border-radius: 10px;
 }
