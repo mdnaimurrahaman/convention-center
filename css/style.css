@@ -4,6 +4,11 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.carousel-item img{
+    width: 1440px;
+    Height:800px;
+}
+
 /* slider-btn-design */
 #btn-hero{
     background-color: #3F87F5;
@@ -48,4 +53,8 @@ body{
 .carousel-item img{
     width: 1440px;
     Height:800px;
+}
+ /* all paragraph style */
+p{
+    font-weight: normal;
 }
