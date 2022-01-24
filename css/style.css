@@ -56,11 +56,12 @@ body{
 
 .carousel-item img{
     width: 1440px;
-    Height:800px;
+    Height:600px;
 }
  /* all paragraph style */
 p{
     font-weight: normal;
+    color: #848199;
 }
 
 footer img{
