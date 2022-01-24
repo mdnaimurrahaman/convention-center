@@ -3,6 +3,8 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+/* slider-btn-design */
 #btn-hero{
     background-color: white;
     color:#3F87F5;
@@ -10,4 +12,34 @@ body{
     border-radius: 5px;
     font-weight: bold;
     text-decoration: none;
+}
+
+/* check-circle color */
+.far{
+    color: #3F87F5;
+}
+
+/* card-button-style */
+#card-btn{
+    background-color:#ee95cd25;
+    color:#3F87F5;
+    padding: 19px 61px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* card-3-style */
+.card-3{
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+}
+#card-3-btn{
+    background-color:#ffffff;
+    color:#3F87F5;
+    padding: 19px 61px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
 }
